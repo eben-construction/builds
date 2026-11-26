@@ -2,7 +2,7 @@
    Put the state license number between the quotes, for example 'CBC1234567'.
    It then appears in the footer of every page and on the About page.
    ------------------------------------------------------------------------ */
-const LICENSE_NUMBER = '';
+const LICENSE_NUMBER = 'CBC1270997';
 
 /* Mobile menu */
 const toggle = document.querySelector('.nav-toggle');
